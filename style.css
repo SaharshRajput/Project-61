@@ -1,0 +1,35 @@
+html{
+    text-align: center;
+    scroll-behavior:center;
+}
+
+p
+{
+   color:red;
+  font-size:20px;
+  padding:20px;
+}
+h1
+{
+  color:blue;
+  font-size:25px;
+}
+.menu
+{
+    position: fixed;
+    padding-left: 5px;
+    display: inline;
+}
+.links
+{
+    display: inline;
+}
+#About
+{
+    background-color: aqua;
+}
+.line
+{
+    width: 2px;
+    height: 6px;
+  }
