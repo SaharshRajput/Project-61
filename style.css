@@ -14,16 +14,7 @@ h1
   color:blue;
   font-size:25px;
 }
-.menu
-{
-    position: fixed;
-    padding-left: 5px;
-    display: inline;
-}
-.links
-{
-    display: inline;
-}
+
 #About
 {
     background-color: aqua;
@@ -33,3 +24,18 @@ h1
     width: 2px;
     height: 6px;
   }
+  
+#myNavbar
+{
+    display: inline;
+    position: sticky;
+    top: 0;
+    z-index: 9;
+    background-color: yellow;
+    color: red;
+}
+#myemail
+{
+  font-size: 24px;
+  margin-left: 30px;
+}
